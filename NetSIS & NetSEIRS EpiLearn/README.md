@@ -1,4 +1,4 @@
-# Network-Based Epidemic Modeling Notebook
+# Network-Based NetSIS & NetSEIRS Epidemic Modeling Notebook
 
 This project contains a **PyTorch-based notebook** implementing two network-based epidemiological models: **NetSIS** and **NetSEIRS**. The notebook demonstrates how disease spreads across networks and how network structure influences epidemic dynamics.
 
